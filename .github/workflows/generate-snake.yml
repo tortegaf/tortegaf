@@ -1,0 +1,31 @@
+name: Generate Snake
+
+on:
+  schedule: 
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: tortegaf
+          svg_out_path: dist/github-snake.svg
+
+      - name: Commit & Push
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add dist/github-snake.svg
+          git commit -m "Generate Snake animation"
+          git push
