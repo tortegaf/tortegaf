@@ -1,62 +1,54 @@
-# 👋 Hello! I'm Tomás Ortega
+# Hi there, I'm Tomás Ortega 👋
 
-Passionate about technology and software development. I enjoy working on innovative projects that challenge me and allow me to grow as a developer.
+![Profile views](https://gpvc.arturio.dev/tortegaf)
 
-- 🔭 Currently working on: **IMPULSE Startup**
-- 🌱 Learning more about: **React, Node.js, and Blockchain**
-- 💬 Ask me about: **JavaScript, C++, and Software Design**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/tu-linkedin) | [Twitter](https://twitter.com/tu-twitter)
-- ⚡ Fun fact: I love solving complex problems with simple solutions!
+## 💻 About Me
+- 🔭 I’m currently working on various web development projects using JavaScript, React, and Node.js.
+- 🌱 I’m currently learning advanced algorithms and data structures.
+- 👯 I’m looking to collaborate on innovative projects that push the boundaries of technology.
+- 💬 Ask me about C++, JavaScript, and Python!
+- 📫 How to reach me: [Email](mailto:se.tortegaf@gmail.com)
 
-## 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+## 🚀 Languages and Tools:
+<p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.postgresql.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a>
 </p>
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats:
+![Tomás Ortega's GitHub stats](https://github-readme-stats.vercel.app/api?username=tortegaf&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomasortega&show_icons=true&theme=radical" alt="Tomas Ortega's GitHub stats">
-</p>
+## 🌟 Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tortegaf&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasortega&layout=compact&theme=radical" alt="Top Langs">
-</p>
+## 🏆 GitHub Trophies:
+![trophy](https://github-profile-trophy.vercel.app/?username=tortegaf&theme=radical)
 
-## 📚 Latest Projects
+## 📫 How to reach me:
+- LinkedIn: [Tomás Ortega](https://www.linkedin.com/in/tomas-ortega/)
+- Email: [tomas_ortega@javeriana.edu.co](mailto:tomas_ortega@javeriana.edu.co)
 
-- **[IMPULSE Startup](https://github.com/tomasortega/IMPULSE)**: An innovative platform to showcase your experience, connect with like-minded individuals, and join groundbreaking projects.
-- **[FiatConverter](https://github.com/tomasortega/FiatConverter)**: A real-time currency converter with a sleek design and dark mode feature.
-
-<p align="center">
-  <img src="https://github.com/tortegaf/ScrabbleHelper/assets/124638175/3ded8743-f30a-47e2-96a3-80b08dc58a77" alt="FiatConverter Screenshot">
-</p>
-
-## 🌱 Learning Journey
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white" alt="Blockchain">
-</p>
-
-## 🎨 Design and Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-</p>
-
-## 📫 Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/tu-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:tomas_ortega@javeriana.edu.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+## 🎨 Profile Views:
+![Profile views](https://gpvc.arturio.dev/tortegaf)
