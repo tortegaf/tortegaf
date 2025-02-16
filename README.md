@@ -4,12 +4,6 @@
 Welcome! You´ll find here some of my learning process and some projects of my own!
 
 I´m a Systems Engineer Student in the pursuit of improving my skills and be better everyday, with a succsessful teamwork development and a focused mentality.
-## 💻 About Me 💻  
-
-- 🔭 I’m currently working on PolygonMeshManager3D
-- 🌱 I’m currently learning advanced algorithms and data structures
-- ⚡ I´m a fast learner and a nice partner
-- 🫂 I Like doing this :)
 
 ## 🚀 Languages and Tools:
 <p align="left"> 
